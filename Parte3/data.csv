@@ -1,4 +1,4 @@
-Language,Program,PowerLimit,PCK,CPU,Time,Temperature,Memory
+Language,Program,PowerLimit,PKG,CPU,Time,Temperature,Memory
 Python_3.9.18, Pyperformance_5, -1,2.389099121093750000,1.983825683593750000,183,48.0,25200
 Python_3.9.18, Pyperformance_5, -1,2.406921386718750000,2.023986816406250000,181,48.0,25180
 Python_3.9.18, Pyperformance_5, -1,2.421508789062500000,2.033142089843750000,182,48.0,25196
